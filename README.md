@@ -104,14 +104,6 @@ This dashboard helps understand:
 
 ---
 
-## 🔹 Challenges Faced & Solutions
-
-- Inconsistent data formats → Cleaned using Power Query  
-- Missing values → Handled with imputation  
-- Complex KPIs → Implemented using DAX measures  
-
----
-
 ## 🔹 Power BI Dashboard Showcase
 
 - Explore Dashboard → https://drive.google.com/file/d/1ueaCduEHxnru5s1tB0Wca3Gng-Da42lm/view?usp=sharing
